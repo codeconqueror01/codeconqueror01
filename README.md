@@ -23,7 +23,16 @@
 
 🌟 Let's collaborate on exciting projects! Feel free to explore my GitHub repositories to see my work and get in touch with me for any freelance opportunities or interesting collaborations.
 
-📫 You can reach me via email at [your@email.com] or connect with me on LinkedIn at [your LinkedIn profile URL].
+## Interests
+Apart from my expertise in web and app development, I also have a strong interest in the following areas:
+
+- Trading: I enjoy exploring the financial markets and analyzing trading strategies. It's fascinating to leverage technology and data analysis to make informed trading decisions.
+
+- Web 3 and Blockchain: I find the decentralized nature of Web 3 and blockchain technologies intriguing. Exploring smart contracts, decentralized applications (dApps), and their potential impact on various industries is something I actively engage in.
+
+## Contact
+
+📫 You can reach me via email at # codeconqueror01@gmai.com
 
 Looking forward to working together! 🚀
 
