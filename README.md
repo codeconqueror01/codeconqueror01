@@ -6,7 +6,7 @@
 
 <img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
 
-- 🌱 I’m currently learning <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+- 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **Web Dev Hackathons**
 - 🤝 I’m looking for help with **Backend & CI/CD Deplyment🛠**
 - 🥅 2023 Goals: Learn **MERN** in depth + Open Source
