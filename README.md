@@ -32,7 +32,7 @@ Apart from my expertise in web and app development, I also have a strong interes
 
 ## Contact
 
-📫 You can reach me via email at # codeconqueror01@gmai.com
+📫 You can reach me via email at codeconqueror01@gmai.com
 
 Looking forward to working together! 🚀
 
