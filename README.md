@@ -12,7 +12,7 @@
 - 🥅 2023 Goals: Learn **MERN** in depth + Open Source
 - ⚡ Fun fact - I 💖 Workout
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 
 ### Programming Tech & Tools
 | Category    | Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
