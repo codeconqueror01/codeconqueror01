@@ -5,12 +5,28 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Dev%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Open+source+%F0%9F%92%98;LeetCoder)](https://git.io/typing-svg)
 
 <img align="right" alt="cheemsCoder" src = "https://user-images.githubusercontent.com/73928744/141654531-109887e4-1142-474e-ac70-8540f7a24f70.png"></p>
-
+<!--
 - 🌱 I’m currently learning **Deep Learning**
 - 👯 I’m looking to collaborate on **Web Dev Hackathons**
 - 🤝 I’m looking for help with **Backend & CI/CD Deplyment🛠**
 - 🥅 2023 Goals: Learn **MERN** in depth + Open Source
-- ⚡ Fun fact - I 💖 Workout
+- ⚡ Fun fact - I 💖 Workout -->
+👋 Hello! I'm Code Conqueror, a Full Stack Web Developer with expertise in MERN (MongoDB, Express.js, React, Node.js) stack, as well as Mobile App Development and Machine Learning.
+
+💻 As a web developer, I enjoy crafting scalable and user-friendly applications. I have hands-on experience in building dynamic web solutions, developing RESTful APIs, and implementing responsive front-end designs. My skillset includes proficiency in HTML, CSS, JavaScript, and various frameworks such as React and Express.js.
+
+📱 Additionally, I specialize in Mobile App Development for both Android and iOS platforms. I have experience in building native and cross-platform applications using technologies such as React Native and Flutter. Whether it's creating a seamless user experience or integrating complex functionalities, I'm passionate about delivering high-quality mobile solutions.
+
+🧠 In addition to web and app development, I also have a keen interest in Machine Learning and Deep Learning. I have worked on projects involving data analysis, predictive modeling, and natural language processing. My knowledge includes popular ML libraries such as TensorFlow and scikit-learn.
+
+🔨 From web applications to mobile apps and machine learning algorithms, I strive to deliver innovative solutions that exceed client expectations. I am committed to continuous learning and staying updated with the latest industry trends.
+
+🌟 Let's collaborate on exciting projects! Feel free to explore my GitHub repositories to see my work and get in touch with me for any freelance opportunities or interesting collaborations.
+
+📫 You can reach me via email at [your@email.com] or connect with me on LinkedIn at [your LinkedIn profile URL].
+
+Looking forward to working together! 🚀
+
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- 
