@@ -30,6 +30,9 @@ Apart from my expertise in web and app development, I also have a strong interes
 
 - Web 3 and Blockchain: I find the decentralized nature of Web 3 and blockchain technologies intriguing. Exploring smart contracts, decentralized applications (dApps), and their potential impact on various industries is something I actively engage in.
 
+## Freelancing
+I am available for freelancing work! If you have a major project or other freelancing opportunities, please feel free to reach out to me via email at codeconqueror01@gmail.com. Let's discuss how I can help bring your ideas to life.
+
 ## Contact
 
 📫 You can reach me via email at codeconqueror01@gmai.com
